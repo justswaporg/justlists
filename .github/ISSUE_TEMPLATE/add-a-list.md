@@ -2,7 +2,7 @@
 name: Add a List
 about: Add a list to justlists.tron.network.
 title: 'Add List: {List name}'
-labels: help wanted
+labels: add-list
 assignees: ''
 
 ---
