@@ -1,2 +1,2 @@
-# tokenlists
-Token List Standard
+# @justswap/tokenlists
+
