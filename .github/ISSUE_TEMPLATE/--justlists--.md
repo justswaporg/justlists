@@ -16,7 +16,7 @@ https://github.com/justswaporg/justlists/
 
 检查清单
 - [ ] **我已知晓这里不是提交token的地方**
-- [ ] 我已经测试过要提交的List URL能够在`justswap.org`的`添加列表`中进行添加.
+- [ ] 我已经测试粘贴List URL到`justswap.org`的`添加列表`中并能够正常展示.
 - [ ] 我已知晓提交的issue不能确保通过并且相应的List不确保能在jsutlists网站中显示.
 
 **请提供以下的信息**
