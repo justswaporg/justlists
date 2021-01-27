@@ -24,4 +24,4 @@ List的URL必须以HTTPS开头.
 
 List URL: 
 List 名称: 
-List 管理者的网站或主页:
+List 提交者的网站或主页:
