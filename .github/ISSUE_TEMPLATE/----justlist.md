@@ -2,7 +2,7 @@
 name: 添加一个JustList
 about: 申请添加一个JustList到justlists.tron.network
 title: '添加JustList: {JustList name}'
-labels: add-list
+labels: add-justlist
 assignees: ''
 
 ---
