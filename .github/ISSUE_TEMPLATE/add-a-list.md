@@ -17,8 +17,7 @@ https://github.com/justswaporg/justlists/
 Checklist
 - [ ] **I understand that this is not the place to request a token listing.**
 - [ ] I have tested that my list is compatible by pasting the URL into the `add a list` UI at `justswap.org`.
-- [ ] I understand that filing an issue or adding liquidity does not guarantee addition to the token list website.
-- [ ] I will not ping the Discord about this listing request.
+- [ ] I understand that filing an issue or adding liquidity does not guarantee addition to the justlists website.
 
 **Please provide the following information for your token.**
 List URL must be HTTPS.
