@@ -10,7 +10,7 @@ assignees: ''
 提交之前请删除下面的话:
 **如果您没按照要求提交正确的list样式，您的issue将会被删除**
 
-**您提交的列表格式必须满足下面链接中定义的例子格式**
+**您提交的list json格式必须满足下面链接中定义的例子格式**
 
 https://github.com/justswaporg/justlists/
 
