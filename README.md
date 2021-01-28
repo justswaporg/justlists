@@ -11,7 +11,7 @@ Anyone can create and maintain a token list on TRON by following the specificati
 
 You can use ajv or other libraries to perform the validation against the JSON schema.
 
-## Create JustLists
+## Create a JustList
 
 The best way to write a JustList is to use an editor that supports JSON schema validation. Most code editors do, such as IntelliJ and VSCode.
 
