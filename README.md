@@ -31,7 +31,7 @@ Changing a token address or chain ID is considered both a remove and an add, and
 
 Note that list versioning is used to improve the user experience, but not for security, i.e. list versions are not meant to provide protection against malicious updates to a token list.
 
-## Deploy JustLists
+## Deploy your JustList
 
 If hosted on HTTPS, make sure the endpoint is configured to send an access-control-allow-origin header to avoid CORS errors.
 
