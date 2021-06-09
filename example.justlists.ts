@@ -2,14 +2,6 @@
     "name":"JustSwap Default List",
     "tokens":[
         {
-            "symbol":"Dogmoon",
-            "address":"TWZjoo3B6N3XKia9RhhHbSv7zKG5UTQDoJ",
-            "chainId":1,
-            "decimals":0,
-            "name":"SdogToTheMoon",
-            "logoURI":"https://github.com/holy-king/tokens/blob/master/tron/TWZjoo3B6N3XKia9RhhHbSv7zKG5UTQDoJ/logo.png"
-    "tokens":[
-        {
             "symbol":"SUN",
             "address":"TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
             "chainId":1,
