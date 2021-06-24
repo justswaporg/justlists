@@ -106,12 +106,15 @@
             "logoURI":"https://coin.top/production/logo/usdj.png"
         },
         {
-            "symbol":"LTC",
-            "address":"TR3DLthpnDdCGabhVDbD3VMsiJoCXY3bZd",
-            "chainId":1,
-            "decimals":8,
-            "name":"Litecoin",
-            "logoURI":"https://coin.top/production/logo/TR3DLthpnDdCGabhVDbD3VMsiJoCXY3bZd.png"
+            "name": "Albicoin",
+    "website": "http://www.albicoin.com",
+    "description": "Albc is official token of www.albicoin.com.",
+    "explorer": "https://tronscan.org/#/token/1004149",
+    "type": "TRC10",
+    "symbol": "ALBC",
+    "decimals": 3,
+    "status": "active",
+    "id": "1004149"
         },
         {
             "symbol":"HT",
@@ -130,3 +133,4 @@
     },
     "timestamp":1611147166000
 }
+
