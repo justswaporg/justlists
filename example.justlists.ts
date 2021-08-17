@@ -1,6 +1,14 @@
 {
-    "name":"JustSwap Default List",
+    "name":"Nuba Pass Just List",
     "tokens":[
+        
+        {
+            "symbol":"NUBA",
+            "address":"TBNfj8Q2WoDUEYab5bQNPbw9sGnqsc29y9,
+            "chainId":1,
+            "decimals":18,
+            "name":"NUBA HEALTHTECH",
+            "logoURI":"https://coin.top/production/upload/logo/TBNfj8Q2WoDUEYab5bQNPbw9sGnqsc29y9.jpeg?t=1617925518503        
         {
             "symbol":"SUN",
             "address":"TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
