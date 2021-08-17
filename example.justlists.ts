@@ -1,6 +1,15 @@
 {
-    "name":"JustSwap Default List",
+    "name":"MXNT List",
     "tokens":[
+        
+        {
+            "symbol":"MXNT",
+            "address":"TXGUAyg91JEaKin4LZpxgCisjdXcXh5YYp,
+            "chainId":1,
+            "decimals":18,
+            "name":"PESO TOKEN MEXICANO",
+            "logoURI":"https://coin.top/production/upload/logo/TXGUAyg91JEaKin4LZpxgCisjdXcXh5YYp.jpeg?t=1617910788962
+        },
         {
             "symbol":"SUN",
             "address":"TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
