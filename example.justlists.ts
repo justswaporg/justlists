@@ -1,6 +1,14 @@
 {
-    "name":"JustSwap Default List",
+    "name":"COFFE.io List",
     "tokens":[
+        {
+            "symbol":"CFF",
+            "address":"1003844",
+            "chainId":1,
+            "decimals":4,
+            "name":"COFFE",
+            "logoURI":"https://coffe.io/bp_logo/coffe_256.png"
+        },
         {
             "symbol":"SUN",
             "address":"TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
