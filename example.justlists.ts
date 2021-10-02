@@ -27,11 +27,11 @@
         },
         {
             "symbol":"ETH",
-            "address":"THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF",
+            "address":"TB5qjhRvnGdbp49pjGSEktGvEQ4dSxmJTs",
             "chainId":1,
             "decimals":18,
             "name":"Ethereum",
-            "logoURI":"https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
+            "logoURI":"https://coin.top/production/logo/TB5qjhRvnGdbp49pjGSEktGvEQ4dSxmJTs.png"
         },
         {
             "symbol":"WETH",
