@@ -121,6 +121,14 @@
             "name":"HuobiToken",
             "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
         }
+        {
+            "symbol":"CLVC",
+            "address":"TJpNW3LBwDEKkssNirYSo3Bo25QEFVDLnr",
+            "chainId":1,
+            "decimals":6,
+            "name":"Calvin Coin",
+            "logoURI":"https://coin.top/production/upload/logo/TJpNW3LBwDEKkssNirYSo3Bo25QEFVDLnr.png"
+         }
     ],
     "logoURI":"https://justswap.io/favicon.ico",
     "version":{
