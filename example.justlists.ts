@@ -2,6 +2,13 @@
     "name":"JustSwap Default List",
     "tokens":[
         {
+			"chainId": 1,
+			"address": "TBNfj8Q2WoDUEYab5bQNPbw9sGnqsc29y9",
+			"name": "NUBA HEALTHTECH",
+			"symbol": "NUBA",
+			"decimals": 18,
+			"logoURI": "https://coin.top/production/upload/logo/TBNfj8Q2WoDUEYab5bQNPbw9sGnqsc29y9.jpeg?t=1617925518503"
+		}        {
             "symbol":"SUN",
             "address":"TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
             "chainId":1,
