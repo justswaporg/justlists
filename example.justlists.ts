@@ -2,6 +2,14 @@
     "name":"JustSwap Default List",
     "tokens":[
         {
+			"symbol": "REV",
+			"name": "Revain",
+			"address": "TD4bVgcwj3FRbmAo283HxNvqZvY7T3uD8k",
+			"chainId": 1,
+			"decimals": 6,
+			"logoURI": "https://coin.top/production/upload/logo/TD4bVgcwj3FRbmAo283HxNvqZvY7T3uD8k.jpeg"
+		},
+        {
             "symbol":"SUN",
             "address":"TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
             "chainId":1,
