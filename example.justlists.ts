@@ -7,7 +7,7 @@
             "chainId":1,
             "decimals":18,
             "name":"SUN TOKEN",
-            "logoURI":"https://coin.top/production/logo/SUNLogo.178d4636.png"
+            "logoURI":"https://app.justlend.org/?utm_source=tronlink#/home"
         },
         {
             "symbol":"BTC",
