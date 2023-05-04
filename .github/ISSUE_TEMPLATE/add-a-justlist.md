@@ -12,7 +12,7 @@ Before submission deletes this line:
 
 **YOUR JUSTLIST MUST FOLLOW THE JSON SPECIFICATION**
 
-https://github.com/justswaporg/justlists/example.justlists.ts
+https://github.com/justswaporg/justlists/blob/main/example.justlists.ts
 
 Checklist
 - [ ] **I understand that this is not the place to request a token listing.**
