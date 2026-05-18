@@ -6,6 +6,22 @@
   "tokens": [
     {
       "chainId": 1,
+      "address": "TN3WBYMHDHexvTLmcteeMtdMQc3vX4KpGL",
+      "symbol": "WTRX",
+      "name": "Wrapped TRX",
+      "decimals": 6,
+      "logoURI": "https://coin.top"
+    },
+    {
+      "chainId": 1,
+      "address": "TR7NHqJEQXF6TW199NjMT6451Nh69jcSBb",
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "decimals": 6,
+      "logoURI": "https://coin.top"
+    },
+    {
+      "chainId": 1,
       "address": "TU4rF1G7T2vQiWURcYKdh45f5fEPidXc1Q",
       "symbol": "MTTK",
       "name": "Military Attack",
